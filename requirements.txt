@@ -5,3 +5,4 @@ wheel
 SQLAlchemy
 sqlalchemy-libsql
 python-dotenv
+db-sqlite3
