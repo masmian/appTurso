@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+icecream
+wheel
+SQLAlchemy
+sqlalchemy-libsql
+python-dotenv
